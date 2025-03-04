@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
