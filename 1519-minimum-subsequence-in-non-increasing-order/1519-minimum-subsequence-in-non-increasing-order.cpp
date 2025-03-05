@@ -1,26 +1,19 @@
 class Solution {
 public:
     vector<int> minSubsequence(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        sort(nums.rbegin(),nums.rend());
+        vector<int> vec;
         int n=nums.size()-1;
-        int l=0;
-        int r=n;
-       int ls=nums[0];
-       int rs=nums[n];
-        int sum=0;
-        vector <int> vec;
-        vec.push_back(nums[r]);
-        while(l<r){
-            if(ls<rs){
-                l++;
-                ls+=nums[l];
-            }
-            else{
-                r--;
-                rs+=nums[r];
-                vec.push_back(nums[r]);
-            }
+       int total=accumulate(nums.begin(),nums.end(),0);
+        int subsum=0;
+        for(int num:nums){
+            subsum+=num;
+             vec.push_back(num);
+             if(subsum>total-subsum){
+                return vec;
+             }
         }
-      return vec;
+        return vec;
+
     }
 };
