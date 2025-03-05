@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Array
 |  |
