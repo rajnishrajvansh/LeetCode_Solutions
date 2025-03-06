@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
