@@ -130,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
