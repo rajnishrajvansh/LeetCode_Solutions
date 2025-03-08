@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
 | ------- |
