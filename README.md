@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
