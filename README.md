@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
