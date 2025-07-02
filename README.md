@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
