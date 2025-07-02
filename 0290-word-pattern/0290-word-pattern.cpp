@@ -18,12 +18,11 @@ public:
                 if (mp[p] != w)
                     return false;
             } else {
-                mp[p] = w;
-            }
             if (pm.count(w)) {
                 if (pm[w] != p)
                     return false;
-            } else {
+            } 
+                mp[p] = w;
                 pm[w] = p;
             }
         }
