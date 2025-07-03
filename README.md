@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
