@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
