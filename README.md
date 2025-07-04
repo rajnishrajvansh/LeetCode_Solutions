@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0227-basic-calculator-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0263-ugly-number) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
