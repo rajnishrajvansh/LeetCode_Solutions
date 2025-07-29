@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
