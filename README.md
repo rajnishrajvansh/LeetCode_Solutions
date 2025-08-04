@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
