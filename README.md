@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
