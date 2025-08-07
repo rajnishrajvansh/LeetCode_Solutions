@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Greedy
