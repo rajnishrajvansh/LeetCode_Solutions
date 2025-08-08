@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sorting
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
