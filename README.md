@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
