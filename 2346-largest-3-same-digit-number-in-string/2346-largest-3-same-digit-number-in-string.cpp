@@ -1,20 +1,17 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        int pos;
-        int max=-1;
-       for(int i=2;i<num.length();i++){
-            if((num[i-2]==num[i-1])&&(num[i-1]==num[i])){
-               string str= num.substr(i-2,3);
-               if((num[i]-'0')>max){
-                max=num[i]-'0';
-                pos=i;
-               }
+        vector<int> arr;
+        int ret=-1;
+        for(char i:num){
+           arr.push_back(i-'0');
+        }
+        for(int n=0;n+2<arr.size();n++){
+            if(arr[n]==arr[n+1]&&arr[n]==arr[n+2]){
+               ret= max(ret,arr[n]);        
             }
-       } 
-       if(max>=0){
-        return num.substr(pos-2,3);
-       }
-       return "";
+        }
+        if(ret==-1) return "";
+        return string(3,'0'+ret);
     }
 };
