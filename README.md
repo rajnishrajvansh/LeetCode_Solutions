@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -329,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
