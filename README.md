@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0679-24-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0679-24-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0679-24-game) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Greedy
 |  |
