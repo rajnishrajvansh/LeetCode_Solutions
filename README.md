@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sorting
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Brainteaser
 |  |
 | ------- |
