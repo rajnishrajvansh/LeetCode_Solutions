@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
 |  |
