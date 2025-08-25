@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0679-24-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0498-diagonal-traverse](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
