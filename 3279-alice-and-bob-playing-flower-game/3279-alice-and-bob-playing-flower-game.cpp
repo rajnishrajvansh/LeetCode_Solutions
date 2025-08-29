@@ -1,11 +1,9 @@
 class Solution {
 public:
     long long flowerGame(int n, int m) {
-         long long even_n=n/2;
-         long long odd_n=(n+1)/2;
-         long long even_m=m/2;
-         long long odd_m=(m+1)/2;   
-        return (even_n*odd_m)+(even_m*odd_n);
+       
+        long long result=  1LL*(n/2)*((m+1)/2)+1LL*((n+1)/2)*(m/2);
+        return result;
        
     }
 };
