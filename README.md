@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2107-find-unique-binary-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [1448-maximum-69-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
