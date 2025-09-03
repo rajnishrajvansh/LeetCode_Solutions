@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3371-harshad-number](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2689-rearranging-fruits](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Memoization
 |  |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajnishrajvansh/LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
